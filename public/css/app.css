@@ -1,0 +1,25 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+h2 {
+    font-size: 28px;
+    color: #0066cc;
+    border-bottom: 2px solid #0066cc;
+    padding-bottom: 5px;
+}
+
+
+image1 {
+    border-radius: 50%; 
+    overflow: hidden; 
+    width: 150px; 
+    height: 150px; 
+} 
+
